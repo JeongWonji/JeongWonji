@@ -29,8 +29,8 @@
 <br />
 
 ## currently learning
-* Algorithmic Study
-  <a href="https://github.com/JeongWonji/algorithm-study" target="_blank">
+* Algorithm Study
+    <a href="https://github.com/JeongWonji/algorithm-study" target="_blank">
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   </a>
 

@@ -11,17 +11,28 @@
 
 ## 💬 Social
 <a href="mailto:wonjiprog@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
+<a href="mailto:onegtwog@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
+<a href="https://github.com/JeongWonji?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> 
 
 <br />
 
 ## Career
 - 신한라이프 <b> ICT Financial Software Engineer <i>(~ ing)</i></b>
+- 교보정보통신 <b> AI Engineer </b> 
 
 <br />
 
 ## Experience
 * KB국민은행 금융 IT 아카데미 IT's your life 2기 `2022.08 ~ 2022.10`
 * 멀티캠퍼스 AI 서비스 개발 5기 `2022.01 ~ 2022.06`
+
+<br />
+
+## currently learning
+* Algorithmic Study
+  <a href="https://github.com/JeongWonji/algorithm-study" target="_blank">
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  </a>
 
 <br />
 
@@ -111,3 +122,18 @@
 
 ![JeongWonji's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongWonji&theme=nightowl&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongWonji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<!--
+**choijungp/choijungp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

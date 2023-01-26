@@ -83,6 +83,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img src="https://img.shields.io/badge/JAVA-orange?style=flat-square&logo=Java&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C-gray?style=flat-square&logo=C&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Python-navy?style=flat-square&logo=Python&logoColor=FFFFFF"/> 
 
 ### 🖥️ ML/DL
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -102,6 +103,7 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+<img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=FFFFFF"/> 
 
 ### 💾 Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)

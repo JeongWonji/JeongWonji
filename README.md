@@ -83,7 +83,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<img src="https://img.shields.io/badge/JAVA-orange?style=flat-square&logo=Java&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C-gray?style=flat-square&logo=C&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Python-navy?style=flat-square&logo=Python&logoColor=FFFFFF"/> 
+<img src="https://img.shields.io/badge/JAVA-orange?style=flat-square&logo=Java&logoColor=FFFFFF"/>
 
 ### 🖥️ ML/DL
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)

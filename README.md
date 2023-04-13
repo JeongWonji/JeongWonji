@@ -18,7 +18,6 @@
 
 ## Career
 - 신한라이프 <b> ICT Financial Software Engineer <i>(~ ing)</i></b>
-- 교보정보통신 <b> AI Engineer </b> 
 
 <br />
 
